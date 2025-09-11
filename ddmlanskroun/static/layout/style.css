@@ -154,3 +154,7 @@ a.gallery img {
     background-color: #116611;
     border-color: #116611;
 }
+
+#event-time-calendar {
+    margin-bottom: 25px;
+}

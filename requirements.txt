@@ -1,4 +1,4 @@
 aldryn-search
 cmsplugin-iframe2
-django-cms-articles==2.1.4
+django-cms-articles
 leprikon
