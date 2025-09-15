@@ -1,0 +1,67 @@
+# Custom translation for DDM Lanškroun
+# This file is distributed under the same license as the ddmlanskroun package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 10:20+0200\n"
+"Last-Translator: Jakub Dorňák <jakub.dornak@qbsoftware.cz>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: settings.py:36 settings.py:43
+msgid "Na titulní stránku"
+msgstr "Na titulní stránku"
+
+#: settings.py:79
+msgid "Gallery"
+msgstr "Galerie"
+
+#: settings.py:79
+msgid "Homepage"
+msgstr "Úvodní stránka"
+
+#: templates/404.html:4 templates/404.html:5
+msgid "Page not found"
+msgstr "Stránka nenalezena"
+
+#: templates/500.html:4 templates/500.html:5
+msgid "Unhandled Exception"
+msgstr "Neošetřená výjimka"
+
+#: templates/aldryn_search/includes/pagination.html:6
+#, python-format
+msgid "displaying %(from)s – %(until)s of %(count)s"
+msgstr "Zobrazeno %(from)s – %(until)s z %(count)s"
+
+#: templates/aldryn_search/includes/pagination.html:10
+#: templates/cms_articles/articles/default.html:10
+msgid "previous"
+msgstr "předchozí"
+
+#: templates/aldryn_search/includes/pagination.html:24
+#: templates/cms_articles/articles/default.html:18
+msgid "next"
+msgstr "další"
+
+#: templates/aldryn_search/search_results.html:9 templates/base.html:89
+msgid "enter search term"
+msgstr "zadejte hledaný výraz"
+
+#: templates/aldryn_search/search_results.html:11 templates/base.html:91
+msgid "Search"
+msgstr "Hledat"
+
+#: templates/aldryn_search/search_results.html:24
+msgid "results"
+msgstr "výsledky"
+
+#: translations.py:3
+msgid "participants instructed about safety and internal rules"
+msgstr "účastníci poučeni o bezpečnosti a seznámeni s vnitřním řádem DDM"
